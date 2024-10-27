@@ -1983,7 +1983,7 @@
 											"top": 815,
 											"width": 151,
 											"height": 13,
-											"text": "Company"
+											"text": "Organization"
 										},
 										{
 											"_type": "LabelView",
@@ -2056,7 +2056,7 @@
 											"top": 868,
 											"width": 151,
 											"height": 13,
-											"text": "-compPass",
+											"text": "-orgPass",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2073,7 +2073,7 @@
 											"top": 840,
 											"width": 151,
 											"height": 13,
-											"text": "+compFile",
+											"text": "+orgFile",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2091,7 +2091,7 @@
 											"top": 855,
 											"width": 151,
 											"height": 13,
-											"text": "+compLogo",
+											"text": "+orgLogo",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2109,7 +2109,7 @@
 											"top": 870,
 											"width": 151,
 											"height": 13,
-											"text": "+compCity",
+											"text": "+orgCity",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2127,7 +2127,7 @@
 											"top": 885,
 											"width": 151,
 											"height": 13,
-											"text": "+compNumber",
+											"text": "+orgNumber",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2144,7 +2144,7 @@
 											"top": 855,
 											"width": 151,
 											"height": 13,
-											"text": "+compWebsite",
+											"text": "+orgWebsite",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2161,7 +2161,7 @@
 											"top": 870,
 											"width": 151,
 											"height": 13,
-											"text": "+compIndustry",
+											"text": "+orgIndustry",
 											"horizontalAlignment": 0
 										}
 									],
@@ -7651,7 +7651,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSbd0ithRo44s="
 					},
-					"name": "Company",
+					"name": "Organization",
 					"ownedElements": [
 						{
 							"_type": "UMLDependency",
@@ -7717,7 +7717,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compPass",
+							"name": "orgPass",
 							"visibility": "private",
 							"type": ""
 						},
@@ -7727,7 +7727,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compFile",
+							"name": "orgFile",
 							"type": ""
 						},
 						{
@@ -7736,7 +7736,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compLogo",
+							"name": "orgLogo",
 							"type": ""
 						},
 						{
@@ -7745,7 +7745,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compCity",
+							"name": "orgCity",
 							"type": ""
 						},
 						{
@@ -7754,7 +7754,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compNumber",
+							"name": "orgNumber",
 							"type": ""
 						},
 						{
@@ -7763,7 +7763,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compWebsite",
+							"name": "orgWebsite",
 							"type": ""
 						},
 						{
@@ -7772,7 +7772,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSbfoXFxkWQQ8="
 							},
-							"name": "compIndustry",
+							"name": "orgIndustry",
 							"type": ""
 						}
 					],
